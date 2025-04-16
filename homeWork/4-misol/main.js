@@ -1,5 +1,4 @@
 const fs = require("fs");
-const path = require("path");
 
 // Yaratilishi kerak bo'lgan papkalar
 const folders = [
